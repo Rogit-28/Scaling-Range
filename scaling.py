@@ -1,4 +1,4 @@
-# Developed for Profisolutions by Rogit Sudharsan. Contact Me at rogitsudharsan81@gmail.com #
+# Developed by Rogit Sudharsan. Contact Me at rogitsudharsan81@gmail.com #
 
 import customtkinter as ctk
 import os
